@@ -12,7 +12,7 @@
 
 # testing
 /coverage
-
+step.md
 # next.js
 /.next/
 /out/
